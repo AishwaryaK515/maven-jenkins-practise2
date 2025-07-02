@@ -8,7 +8,7 @@ Great! Let’s proceed with **Project 2: Build a WAR file using Maven and deploy
 
 * Clone a Java web app project from GitHub
 * Build a `.war` file using Maven
-* Deploy that `.war` to Apache Tomcat automatically from Jenkins
+* Deploy that `.war` to Apache Tomcat automatically from Jenkins 
 
 ---
 
